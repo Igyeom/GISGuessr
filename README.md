@@ -1,5 +1,6 @@
 # GISGuessr
-Official releases for local downloads of GISGuessr, for faster image load times.
+Official releases for local downloads of GISGuessr, for faster image load times.<br>
+**PLEASE NOTE THAT THIS PROJECT IS NOT AFFILIATED IN ANY WAY WITH GEOGUESSR OR GARDEN INTERNATIONAL SCHOOL.**
 
 # Quickstart
 1. Download `GISGuessr-vX.X.X.zip` from the latest release from the [releases](https://github.com/Igyeom/GISGuessr/releases) page.
